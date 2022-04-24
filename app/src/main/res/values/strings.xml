@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tonometer</string>
+    <string name="time">12:00</string>
+    <string name="systolic">120</string>
+    <string name="diastolic">80</string>
+    <string name="pressure_separator">/</string>
+    <string name="heart_rate">59</string>
+    <string name="add_measurement">Add Measurement</string>
+    <string name="date">Date</string>
+    <string name="april_20_23_54">April 20 23:54</string>
+    <string name="upper">Upper</string>
+    <string name="_120">120</string>
+    <string name="lower">Lower</string>
+    <string name="_80">80</string>
+    <string name="_59">59</string>
+    <string name="systolic_hint">Systolic pressure (Upper)</string>
+    <string name="diastolic_hint">Diastolic pressure (Lower)</string>
+    <string name="save_measurement">Save measurement</string>
+    <string name="cancel">Cancel</string>
+    <string name="_date">25 October</string>
+    <string name="_heart_rate">Heart rate</string>
+</resources>
