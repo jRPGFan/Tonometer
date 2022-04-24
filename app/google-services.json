@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626724645796",
+    "project_id": "tonometer-270cb",
+    "storage_bucket": "tonometer-270cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626724645796:android:a9db4c1a9f44a30170ef31",
+        "android_client_info": {
+          "package_name": "com.example.tonometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626724645796-6v4s4mctk5qeikj69129u3l29d3qdj60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tonometer",
+            "certificate_hash": "af39d9b81a887bc423c9bab1cbf324780b8d2437"
+          }
+        },
+        {
+          "client_id": "626724645796-uv818pmfv45b5uabl8218rnilr55v8or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXwZUUOgEH5LpT3P-UAznp19bNQFXtYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626724645796-uv818pmfv45b5uabl8218rnilr55v8or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
